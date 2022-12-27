@@ -1,5 +1,5 @@
 # apache_hive_by_akkem_sreenivasulu
-Apache Course Content or Syllabus Demo
+Apache Hive Course Content or Syllabus Demo
 https://youtu.be/oR_0coA0nGE
 
 By
